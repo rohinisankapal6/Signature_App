@@ -1,5 +1,5 @@
 # Signature_App
-It provides the digital platform to the user for their Signature . Where user can use their digital signature for completing their document process without taking the hardcopy of the signature.it also help for providing the convenience to the user.
+It provides the digital platform to the user for their Signature . Where user can use their digital signature for completing their document process without taking the hardcopy of the signature.It also help for providing the convenience to the user.
 
 A signature app lets you sign documents on your phone or computer, making it easy and convenient. It keeps your signatures safe and legally valid. It help for simplifying document management. It's perfect for business, legal, or personal use, and works on any device.
 
